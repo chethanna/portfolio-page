@@ -33,7 +33,7 @@ body {
 
 .profile-pic {
 	width : 40vw;
-	background-image : url("image.jpg");
+	background-image : url("image.JPG");
 	background-size : cover;
 	border-radius : 3vw;
 }
